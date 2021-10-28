@@ -11,15 +11,10 @@
 <ul> Finally open the 'public' directory and run http-server -c-1, and open your browser to the localhost you have tied with the project. </ul> </p>
 
 <h3> Preview: </h3>
-<img width="1278" alt="badbank" src="https://user-images.githubusercontent.com/80231831/139320795-c3c21ca7-e1f4-4175-9110-83dc5d2fc85f.png">
+<img width="1000" alt="badbank" src="https://user-images.githubusercontent.com/80231831/139320795-c3c21ca7-e1f4-4175-9110-83dc5d2fc85f.png">
 
 <h3> Technology used: </h3> 
-<ul>React</ul>
-<ul>Bootstrap</ul>
-<ul>Node</ul>
-<ul>Express</ul>
-<ul>Docker</ul>
-<ul>MongoDB</ul>
+<p>React, Bootstrap, Node, Express, Docker, MongoDB</p>
 
 <h3>Features: </h3>
 <p> The BadBank currently allows users to create an account, login, withdraw, deposit, and view all user data. With future features including furthur styling, authentication, and stronger security. </p>
