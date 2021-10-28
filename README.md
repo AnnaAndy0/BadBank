@@ -17,7 +17,7 @@
 <p>React, Bootstrap, Node, Express, Docker, MongoDB</p>
 
 <h3>Features: </h3>
-<p> The BadBank currently allows users to create an account, login, withdraw, deposit, and view all user data. With future features including furthur styling, authentication, and stronger security. </p>
+<p> The BadBank currently allows users to create an account, login, withdraw, deposit, and view all user data. With future features including further styling, authentication, and stronger security. </p>
 
 <h3>License:</h3> 
 
